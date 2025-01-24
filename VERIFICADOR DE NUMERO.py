@@ -16,5 +16,9 @@ else:
     
 print("ESTA ES LA PRIMERA PRUEBA DE GIT")
 
+#LLEVANDO DE REMOTO A LOCAL
+
+print("esta es la prueba de llevar de remoto a local")
+
 
 
